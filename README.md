@@ -195,15 +195,3 @@ Potential deployment options include:
 - **Database:** MongoDB Atlas
 
 Configure environment variables securely on your hosting platform before deployment.
-
-## 👨‍💻 Author
-
-**Neelesh Ranpuriya**
-
-AI & Data Science Student at MITS Gwalior
-
-Interests: Artificial Intelligence, Multi-Agent Systems, Generative AI, Data Analytics, and Full-Stack Development.
-
-## 📄 License
-
-Add a `LICENSE` file to specify how others may use, modify, and distribute this project.
